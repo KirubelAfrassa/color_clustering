@@ -50,7 +50,7 @@ The clustering process demonstrated a moderate level of success in categorizing 
 ## Appendix
 The Python implementation can be found in the GitHub repository. The project structure is as follows:
 
-- **Data:** Contains the image dataset.
+- **Data:** Contains selected image dataset. Original data set can be found at https://universe.roboflow.com/example01/color-oquyt
 - **Histograms:** Stores the generated histograms.
 - **Confusion Matrix:** Contains the heat map generated after each run of k-means.
 - **Code:** Includes Python scripts for preprocessing, histogram generation, and k-means implementation.
